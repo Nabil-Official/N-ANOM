@@ -9,13 +9,14 @@
   
   $ pkg install python && pkg install python2 -y
   
-  $ git clone https://github.com/Nabil-Official/N-TRACE
+  $ git clone https://github.com/Nabil-Official/N-ANOM
   
-  $ cd N-TRACE 
+  $ pip2 install requests
   
-  $ chmod +x setup.sh 
+  $ cd N-ANOM 
   
-  $ ./setup.sh 
+  $ python3 n-anom.py
+  
 
 ```
 
