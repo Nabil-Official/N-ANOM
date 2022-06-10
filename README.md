@@ -1,5 +1,5 @@
 # N-ANOM
-## SNED SMS ANONYMOUSLY 
+<b>N-ANOM<b> is a tool to send sms anonymously
 
 ```
   
