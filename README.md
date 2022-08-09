@@ -11,7 +11,7 @@
   
   $ git clone https://github.com/Nabil-Official/N-ANOM
   
-  $ pip2 install requests
+  $ pip3 install requests
   
   $ cd N-ANOM 
   
@@ -21,3 +21,4 @@
 ```
 
 ![N-ANOM](https://j.top4top.io/p_1905o7ugw0.png)
+
